@@ -8,6 +8,6 @@ Copyright (c) 2021 Prajjwal Chittori
 
 ---
 
-> [linkedin](https://www.linkedin.com/in/prajjwal-chittori/) &nbsp;&middot;&nbsp;
+> Linkedin [@prajjwal-chittori](https://www.linkedin.com/in/prajjwal-chittori/) &nbsp;&middot;&nbsp;
 > GitHub [@pjdurden](https://github.com/pjdurden) &nbsp;&middot;&nbsp;
 > Instagram [@prajjwal632](https://www.instagram.com/prajjwal632/)
