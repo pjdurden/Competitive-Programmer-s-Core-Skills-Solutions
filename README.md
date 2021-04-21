@@ -2,7 +2,7 @@
 
 ## :green_book: License
 
-Licensed under the [GPL-3.0 License](https://github.com/virtyaluk/coursera-competitive-programming-core-skills/blob/master/LICENSE).
+Licensed under the [GPL-3.0 License](https://github.com/pjdurden/Competitive-Programmer-s-Core-Skills-Solutions/blob/master/LICENSE).
 
 Copyright (c) 2021 Prajjwal Chittori
 
